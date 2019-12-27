@@ -1,0 +1,6 @@
+			      Kpax_automation_script
+
+	The user needs to provide the directory containing the structure dataset, working directory, output directory, directory and filename for the seed structure to be compared in the header section of the script. Since kpax requires higher RAM space during highthroughput comparison, batch separation of structures and comparison for the RMSD calculation has been implemented wherein, the comparison can be performed in any low configuration system also. In the output directory, sorted.txt will contain the cluster and corresponding RMSD value.
+
+For queries contact: vumashankar@gmail.com
+
